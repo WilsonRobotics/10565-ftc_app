@@ -578,7 +578,7 @@ public class PushBotHardware extends OpMode
     //
     // a_right_encoder_count
     //
-    /**
+    /*
      * Access the right encoder's count.
      */
     int a_right_encoder_count ()
